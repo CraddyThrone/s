@@ -1,5 +1,5 @@
 {
-  "name": "pkg-with-sign-crdt",
+  "name": "pkg-with-sign-crdt-s",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,11 +9,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CraddyThrone/signatures.git"
+    "url": "git+https://github.com/CraddyThrone/s.git"
   },
   "bugs": {
-    "url": "https://github.com/CraddyThrone/signatures/issues"
+    "url": "https://github.com/CraddyThrone/s/issues"
   },
-  "homepage": "https://github.com/CraddyThrone/signatures#readme",
+  "homepage": "https://github.com/CraddyThrone/s#readme",
   "description": ""
 }
